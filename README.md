@@ -8,7 +8,7 @@ Aprendiendo todo lo relacionado sobre la web por mas de 2 años, encontrando mi 
 
 * 🌍  Vivo en Medellin, Colombia
 * 🖥️  Mira mi Portafolio en [danielink.art](http://danielink.art)
-* ✉️  Contáctame en [danielcruzzuluaga@gmaill.comm](mailto:danielcruzzuluaga@gmaill.comm)
+* ✉️  Contáctame en [danielcruzzuluaga@gmaill.com](mailto:danielcruzzuluaga@gmaill.comm)
 * 🧠  Mejorando mis conocimientos en JS y React
 
 ### Tecnologías
@@ -22,12 +22,12 @@ Aprendiendo todo lo relacionado sobre la web por mas de 2 años, encontrando mi 
 
 <p align="left"> <a href="https://www.github.com/DanCruZul" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/cruzzzulu/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/daniel-cruz-2700691a3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Estadisticas
+### Estadísticas
 
 <a href="http://www.github.com/DanCruZul"><img src="https://github-readme-stats.vercel.app/api?username=DanCruZul&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=cfcfc5&show_icons=true" alt="DanCruZul's GitHub stats" /></a>
 
 <a href="https://github.com/DanCruZul" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanCruZul&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=cfcfc5&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+### Apóyame
 
 <div><a href="https://www.buymeacoffee.com/danielink"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></div>
